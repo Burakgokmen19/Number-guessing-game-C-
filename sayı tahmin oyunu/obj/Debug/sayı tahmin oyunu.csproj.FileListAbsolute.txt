@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\sayı tahmin oyunu.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\sayı tahmin oyunu.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\sayı tahmin oyunu\sayı tahmin oyunu\bin\Debug\sayı tahmin oyunu.exe.config
+C:\Users\pc\source\repos\sayı tahmin oyunu\sayı tahmin oyunu\bin\Debug\sayı tahmin oyunu.exe
+C:\Users\pc\source\repos\sayı tahmin oyunu\sayı tahmin oyunu\bin\Debug\sayı tahmin oyunu.pdb
+C:\Users\pc\source\repos\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\sayı tahmin oyunu.exe
+C:\Users\pc\source\repos\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\sayı tahmin oyunu.pdb
